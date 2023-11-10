@@ -8,17 +8,82 @@ redirect_from:
 ---
 
 
-# Meet Mr. Smith - An Awesome Computer Science Teacher!
+# Hi
 
-## Passionate and Knowledgeable
-
-
-
-Mr. Smith is an extraordinary computer science teacher who is passionate about his subject and has a deep knowledge of the field. His enthusiasm for computer science is contagious, and he brings that energy into the classroom every day. He stays up-to-date with the latest advancements in technology and is always eager to share his knowledge with his students.
+## Hi
 
 ## Engaging Teaching Style
 
-With his engaging teaching style, Mr. Smith makes complex computer science concepts easily understandable for his students. He uses a variety of teaching methods, including interactive presentations, hands-on projects, and group discussions. His classes are never boring, as he incorporates real-life examples and practical applications of computer science into his lessons.
+<html>
+<head>
+  <title>My Hobbies</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    main {
+      padding: 20px;
+    }
+
+    .hobby {
+      margin-bottom: 40px;
+    }
+
+    .hobby img {
+      max-width: 300px;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+
+    .hobby h2 {
+      margin-top: 20px;
+    }
+
+    .hobby p {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>My Hobbies</h1>
+  </header>
+  <main>
+    <section class="hobby">
+      <img src="badminton.jpg" alt="Badminton">
+      <h2>Badminton</h2>
+      <p>Badminton is a racquet sport played using racquets to hit a shuttlecock across a net. It can be played in singles or doubles and requires agility, speed, and precision.</p>
+    </section>
+    <section class="hobby">
+      <img src="geocaching.jpg" alt="Geocaching">
+      <h2>Geocaching</h2>
+      <p>Geocaching is an outdoor recreational activity where participants use a GPS receiver or mobile device to hide and seek containers, called "geocaches," at specific locations marked by coordinates all over the world.</p>
+    </section>
+    <section class="hobby">
+      <img src="gaming.jpg" alt="Gaming">
+      <h2>Gaming</h2>
+      <p>Gaming refers to playing electronic games, whether on a computer, console, or mobile device. It is a popular hobby that provides entertainment and can be a source of competition and social interaction.</p>
+    </section>
+    <section class="hobby">
+      <img src="basketball.jpg" alt="Basketball">
+      <h2>Basketball</h2>
+      <p>Basketball is a team sport played on a rectangular court. The objective is to shoot a ball through a hoop mounted to a backboard while preventing the opposing team from scoring. It requires teamwork, skill, and physical fitness.</p>
+    </section>
+  </main>
+</body>
+</html>
+
 
 ## Encouraging and Supportive
 
