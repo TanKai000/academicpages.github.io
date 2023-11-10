@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "daviddhc20120601haorld / LLM, AI, Medtech, edutech"
+title                    : "Tan Kai Rui"
 title_separator          : "-"
-name                     : &name "daviddhc20120601"
+name                     : &name "Kai Rui"
 description              : &description "personal description"
 url                      : https://daviddhc20120601.github.io/academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -75,9 +75,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daviddhc20120601"
+  name             : "Kai Rui"
   avatar           : "profile.png"
-  bio              : "a simple bio"
+  bio              : "no bio"
   location         : "Singapore"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -91,13 +91,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "daviddhc20120601"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "davidhaidongchen/"
+  linkedin         : 
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
